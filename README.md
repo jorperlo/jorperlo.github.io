@@ -7,6 +7,7 @@ Repositorio del portfolio personal de **Jorge Pérez López**, Técnico en Siste
 El proyecto está compuesto por los siguientes ficheros en la raíz del repositorio:
 
 ```
+├── CV.pdf         # Currículum Vitae
 ├── app.js         # Lógica JavaScript para el comportamiento dinámico
 ├── index.html     # Estructura semántica de la página web
 ├── README.md      # Documentación del proyecto
